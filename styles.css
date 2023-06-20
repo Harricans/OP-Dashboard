@@ -268,7 +268,7 @@ h3 {
 
 .ann-text p {
   font-size: 14px;
-  margin: 10px 0;
+  margin: 1px;
 }
 
 .divider {
@@ -280,7 +280,7 @@ h3 {
   margin-left: 5%;
 }
 .trend {
-  height: 90%;
+  height: 80%;
 }
 .trend-image-text {
   display: flex;

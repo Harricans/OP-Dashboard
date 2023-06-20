@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: BeachSound;
-  src: url("/BeachSound.otf") format("opentype");
+  src: url("BeachSound.otf") format("opentype");
 }
 
 :root {
@@ -54,7 +54,7 @@ picture {
 }
 
 .logo-text > h1 {
-  font-family: "BeachSound";
+  font-family: "BeachSound", system-ui;
 }
 
 .logo-text {
